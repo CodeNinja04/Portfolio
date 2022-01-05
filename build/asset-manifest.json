@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/CodeNinja04/Portfolio.git/static/css/main.a93ca37c.chunk.css",
+    "main.js": "/CodeNinja04/Portfolio.git/static/js/main.3808c6ae.chunk.js",
+    "main.js.map": "/CodeNinja04/Portfolio.git/static/js/main.3808c6ae.chunk.js.map",
+    "runtime-main.js": "/CodeNinja04/Portfolio.git/static/js/runtime-main.238674a6.js",
+    "runtime-main.js.map": "/CodeNinja04/Portfolio.git/static/js/runtime-main.238674a6.js.map",
+    "static/js/2.4f96c316.chunk.js": "/CodeNinja04/Portfolio.git/static/js/2.4f96c316.chunk.js",
+    "static/js/2.4f96c316.chunk.js.map": "/CodeNinja04/Portfolio.git/static/js/2.4f96c316.chunk.js.map",
+    "index.html": "/CodeNinja04/Portfolio.git/index.html",
+    "static/css/main.a93ca37c.chunk.css.map": "/CodeNinja04/Portfolio.git/static/css/main.a93ca37c.chunk.css.map",
+    "static/js/2.4f96c316.chunk.js.LICENSE.txt": "/CodeNinja04/Portfolio.git/static/js/2.4f96c316.chunk.js.LICENSE.txt",
+    "static/media/me2.f9ac7245.png": "/CodeNinja04/Portfolio.git/static/media/me2.f9ac7245.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.238674a6.js",
+    "static/js/2.4f96c316.chunk.js",
+    "static/css/main.a93ca37c.chunk.css",
+    "static/js/main.3808c6ae.chunk.js"
+  ]
+}
