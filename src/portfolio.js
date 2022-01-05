@@ -10,7 +10,7 @@ const about = {
   role: "Full Stack Developer",
   description:
     "I am a tech enthusiast. Skilled in Python, React JS, Express JS, Machine Learning, Computer Vision, and Deep Learning. Pursuing B.Tech in CSE with specialization in IoT from Vellore Institute of Technology.",
-  resume: "",
+  resume: "https://github.com/CodeNinja04/Portfolio/blob/master/resume.pdf",
   social: {
     linkedin: "https://www.linkedin.com/in/hemendra-sharma-15725a194/",
     github: "https://github.com/CodeNinja04",
