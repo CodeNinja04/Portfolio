@@ -1,0 +1,17 @@
+.contact {
+  flex-direction: column;
+}
+
+.social{
+  max-width: 650px;
+  width: 95%;
+  margin: 0 auto;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+
+}
+
+.social-list {
+  margin:1em;
+}
