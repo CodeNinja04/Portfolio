@@ -10,7 +10,7 @@ const about = {
   role: "Full Stack Developer",
   description:
     "I am a tech enthusiast and a Passionate Blockchain Developer. Skilled in Solidity , Web3 , Python , Golang , React JS, Node JS, ML/DL , FastApi etc. I like to build stuff related to Blockchain. And I am currently Pursuing B.Tech in CSE with specialization in IoT from Vellore Institute of Technology.",
-  resume: "https://github.com/CodeNinja04/Portfolio/blob/master/resume.pdf",
+  resume: "https://github.com/CodeNinja04/Portfolio/blob/test/resume.pdf",
   social: {
     linkedin: "https://www.linkedin.com/in/hemendra-sharma-15725a194/",
     github: "https://github.com/CodeNinja04",
