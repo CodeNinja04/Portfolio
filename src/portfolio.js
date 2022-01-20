@@ -9,7 +9,7 @@ const about = {
   name: "HEMENDRA SHARMA",
   role: "Full Stack Developer",
   description:
-    "I am a tech enthusiast. Skilled in Python, React JS, Express JS, Machine Learning, Computer Vision, and Deep Learning. Pursuing B.Tech in CSE with specialization in IoT from Vellore Institute of Technology.",
+    "I am a tech enthusiast and a Passionate Blockchain Developer. Skilled in Solidity , Web3 , Python , Golang , React JS, Node JS, ML/DL , FastApi etc. I like to build stuff related to Blockchain. And I am currently Pursuing B.Tech in CSE with specialization in IoT from Vellore Institute of Technology.",
   resume: "https://github.com/CodeNinja04/Portfolio/blob/master/resume.pdf",
   social: {
     linkedin: "https://www.linkedin.com/in/hemendra-sharma-15725a194/",

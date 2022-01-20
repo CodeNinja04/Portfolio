@@ -146,6 +146,14 @@ main {
   transform: translateY(-5px);
 }
 
+.see-more{
+  margin: auto;
+  color:rgb(1, 145, 228);
+  width: 50%;
+  text-align: center;
+  padding: 10px;
+}
+
 @media (max-width: 600px) {
   .section {
     margin-top: 4em;

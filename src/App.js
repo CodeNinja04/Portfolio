@@ -14,12 +14,16 @@ const App = () => {
   const [{ themeName }] = useContext(ThemeContext)
 
   return (
-    <div id='top' className={`${themeName} app`}>
+    <div id="top" className={`${themeName} app`}>
       <Header />
 
       <main>
         <About />
         <Projects />
+        <h3 className="see-more">
+          {" "}
+          <a href="https://github.com/CodeNinja04">SEE MORE</a>{" "}
+        </h3>
         <Skills />
         <Contact />
       </main>
@@ -27,7 +31,7 @@ const App = () => {
       <ScrollToTop />
       <Footer />
     </div>
-  )
+  );
 }
 
 export default App

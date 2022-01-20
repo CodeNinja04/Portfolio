@@ -22,8 +22,10 @@ const Skills = () => {
       <h2 className="section__title"> SKILLS</h2>
       <div className="skills__list">
         <img
-          src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg"
+          src="https://seeklogo.com/images/E/ethereum-logo-EC6CDBA45B-seeklogo.com.png"
           className="skills__list-item"
+          height={80}
+          width={80}
         />
 
         <img
@@ -54,11 +56,11 @@ const Skills = () => {
         <img
           className="skills__list-item"
           src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
-         
         />
         <img
           className="skills__list-item"
-          src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg"
+          src="https://moralis.io/wp-content/uploads/2021/06/cropped-Moralis-Favicon-Glass.png"
+          height={80} width={80}
         />
         <img
           className="skills__list-item"
@@ -66,7 +68,7 @@ const Skills = () => {
         />
         <img
           className="skills__list-item"
-          src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg"
+          src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg"
         />
         <img
           className="skills__list-item"
